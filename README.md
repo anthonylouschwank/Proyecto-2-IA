@@ -10,3 +10,14 @@ Este proyecto corresponde al segundo proyecto del curso de Inteligencia Artifici
 
    ```bash
    pip install -r requirements.txt
+
+2. **Corre las siguientes lineas:**
+
+   > En el orden que estan.
+
+   ```bash
+   python load_documents.py
+
+   ```bash
+   streamlit run app.py
+   
