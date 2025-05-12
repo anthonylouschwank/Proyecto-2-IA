@@ -17,7 +17,5 @@ Este proyecto corresponde al segundo proyecto del curso de Inteligencia Artifici
 
    ```bash
    python load_documents.py
-
-   ```bash
    streamlit run app.py
    
