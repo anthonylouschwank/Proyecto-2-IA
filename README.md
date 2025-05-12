@@ -40,3 +40,11 @@ Contiene las herramientas necesarias para el funcionamiento del sistema, incluye
 ### 🖥️ Página Principal (`app.py`)
 Es la interfaz principal del proyecto.  
 Utiliza **Streamlit** para generar la estructura HTML de la aplicación web, incluyendo las secciones donde se recibe y muestra la información generada por el modelo.
+
+---
+
+## Aprendizaje
+
+La utlizacion de PINECONE para el almacenar informacion sobre el contexto para diferentes preguntas es una gran ayuda para IA entrenada a ciertos trabajos. 
+En el contexto de programacion, siento que trabajar con una IA informada sobre un tema en particular agilizaria la resolucion de mis dudas, ya que valga la redundancia, no seria necesario contextualizar a CHATGPT.
+Otra enseñanza sobre esto es la forma el manejo de los querys, la cual encontre profundamente confusa al principio. 
